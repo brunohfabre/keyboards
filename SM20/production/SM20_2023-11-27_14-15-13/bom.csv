@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D2, D3, D4, D5, D6, D7, D8, D9",Diode_SOD-123,12,Diode,
+S1,MX_Plate_1.00u,1,Keyswitch,
+"S10, S11, S12, S2, S3, S4, S5, S6, S7, S8, S9",MX_PCB_1.00u,11,Keyswitch,
+U1,RP2040_Zero,1,RP2040_Zero,
